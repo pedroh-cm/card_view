@@ -4,6 +4,7 @@ body{
     background: #f1f1f1;
     font-family: arial;
     box-sizing: border-box;
+    overflow: hidden;
     }
     .card-container{
     width: 300px;
@@ -71,13 +72,4 @@ body{
     background: transparent;
     color: #7F00FF;
     border: 2px solid #7F00FF;
-    }
-    .footer{
-        display: flex;
-        justify-content:center;
-        align-items: center;
-        margin-top: 299px;
-        color: #000;
-        font-family:Georgia, 'Times New Roman', Times, serif
-        
     }
